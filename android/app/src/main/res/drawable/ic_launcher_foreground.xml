@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Professional briefcase + ₾ icon for ხელფასის მენეჯერი -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Briefcase body -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M22,42 Q22,38 26,38 L82,38 Q86,38 86,42 L86,76 Q86,80 82,80 L26,80 Q22,80 22,76 Z"/>
+
+    <!-- Briefcase handle -->
+    <path
+        android:fillColor="#0A0B0D"
+        android:strokeColor="#10B981"
+        android:strokeWidth="3"
+        android:pathData="M38,38 L38,32 Q38,28 42,28 L66,28 Q70,28 70,32 L70,38"
+        android:fillAlpha="0"/>
+
+    <!-- Briefcase center divider line -->
+    <path
+        android:fillColor="#0A0B0D"
+        android:pathData="M22,56 L86,56 L86,60 L22,60 Z"/>
+
+    <!-- Lari symbol ₾ in white -->
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M46,48 Q46,44 50,44 L58,44 Q62,44 62,48 Q62,52 58,52 L46,52 Z"/>
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M44,54 L64,54 L64,56 L44,56 Z"/>
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M44,58 L64,58 L64,60 L44,60 Z"/>
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M48,44 L52,44 L52,68 L48,68 Z"/>
+
+    <!-- Small calendar accent bottom-right -->
+    <path
+        android:fillColor="#0A0B0D"
+        android:pathData="M66,64 Q66,62 68,62 L80,62 Q82,62 82,64 L82,76 Q82,78 80,78 L68,78 Q66,78 66,76 Z"/>
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M66,62 L82,62 L82,66 L66,66 Z"/>
+    <!-- Calendar dots -->
+    <path android:fillColor="#FAFAFA" android:pathData="M69,69 L71,69 L71,71 L69,71 Z"/>
+    <path android:fillColor="#FAFAFA" android:pathData="M73,69 L75,69 L75,71 L73,71 Z"/>
+    <path android:fillColor="#FAFAFA" android:pathData="M77,69 L79,69 L79,71 L77,71 Z"/>
+    <path android:fillColor="#FAFAFA" android:pathData="M69,73 L71,73 L71,75 L69,75 Z"/>
+    <path android:fillColor="#10B981" android:pathData="M73,73 L75,73 L75,75 L73,75 Z"/>
+    <path android:fillColor="#FAFAFA" android:pathData="M77,73 L79,73 L79,75 L77,75 Z"/>
+
+</vector>
